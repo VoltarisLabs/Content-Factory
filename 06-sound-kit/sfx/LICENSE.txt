@@ -1,0 +1,8 @@
+pop_deep.wav, pin_drop.wav and tick.wav
+
+Author: Kenney (https://kenney.nl)
+License: Creative Commons Zero, CC0 1.0 Universal
+https://creativecommons.org/publicdomain/zero/1.0/
+
+You may copy, modify and use these sounds in any project, commercial or not, without asking permission.
+Credit to Kenney is appreciated but not required.
